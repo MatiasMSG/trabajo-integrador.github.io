@@ -1,0 +1,63 @@
+.textoChico {
+    font-size: .8rem;
+}
+
+.carousel-item img {
+    filter: brightness(50%);
+}
+
+.comprar-tickets {
+    color: green;
+ }
+ 
+ .negocios-link {
+    background-color: grey !important;
+    color: white !important;
+    font-weight: bold
+  }
+
+  .startup-link {
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold
+  }
+
+  .btn.font-weight-bold {
+    font-weight: bold;
+  }
+
+  .card-body-custom {
+    background-color: #333a40;
+    color: #fff;
+  }
+
+  .footer-custom {
+    background-color: #1f5271 !important;
+    height: 100px; /* Ajusta la altura según tu necesidad */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f5271;
+  
+  }
+
+  .footer-custom a {
+    line-height: 1.5;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .btn-primary {
+    background-color: #96c93e !important;
+    border-color: #96c93e !important;
+    color: #fff;
+  }
+  
+  .btn-custom:hover {
+    background-color: #7ba232;
+    border-color: #7ba232;
+  }
+
+  .agrandar {
+    height: 150px !important;
+  }
